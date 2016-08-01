@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="metadatamanagement" version="4">
+  <OBJECT>
+    <ID name="metadatamanagement" mc="Standard.Package" uid="f6ae9481-d9ef-4b17-b8f7-e937d71e8c66"/>
+    <PID name="Metadatamanagement" mc="Standard.Project" uid="5de730f2-ecb2-4fcb-97e4-a065de5fa332"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[metadatamanagement]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Variable" mc="Standard.Class" uid="875a8f28-e063-40a1-88a1-ba0611eb4e75"/>
+        <COMPID name="DataAcquisitionProject" mc="Standard.Class" uid="9aeba72a-d22c-439c-862e-a6204f74ea9d"/>
+        <COMPID name="Survey" mc="Standard.Class" uid="63ee30f7-2d6b-4e57-a594-8560b09f5b4d"/>
+        <COMPID name="Questionnaire" mc="Standard.Class" uid="2dfe8af7-2be2-41b5-a4ad-05818ffdccff"/>
+        <COMPID name="LocalDate" mc="Standard.DataType" uid="677dccc8-d6dc-4025-95de-cb7b07d1acb7"/>
+        <COMPID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+        <COMPID name="Statistics" mc="Standard.Class" uid="224b1d2a-b15a-4a0f-ba86-259ecd25abc6"/>
+        <COMPID name="GenerationDetails" mc="Standard.Class" uid="689c31a7-7070-4d7c-bf8d-ab9f30e98109"/>
+        <COMPID name="I18nString" mc="Standard.DataType" uid="57c989c5-d696-484c-b482-3dbbf6cb76be"/>
+        <COMPID name="Period" mc="Standard.DataType" uid="8075b9f9-9fc7-46bf-817a-1fc1ac2e7a77"/>
+        <COMPID name="AbstractRdcDomainObject" mc="Standard.Class" uid="4141782d-530b-4eed-9619-77e05208ac00"/>
+        <COMPID name="LocalDateTime" mc="Standard.DataType" uid="42e8c8a3-d35a-4e46-8deb-f39bebf0ee72"/>
+        <COMPID name="DataSet" mc="Standard.Class" uid="b5026c48-2136-4220-b4f1-320fb99e2aa1"/>
+        <COMPID name="List" mc="Standard.DataType" uid="b2a4b9da-85ce-49d7-b9b1-29580eadb5bb"/>
+        <COMPID name="BibliographicalReference" mc="Standard.Class" uid="d8430943-6ed1-4749-bbdc-1ab169e659a6"/>
+        <COMPID name="Concept" mc="Standard.Class" uid="cd23365a-84c0-4931-a87d-792c4eaab33e"/>
+        <COMPID name="Question" mc="Standard.Class" uid="0feb659f-c4f4-4bd7-b115-f4e4df3fb89f"/>
+        <COMPID name="Release" mc="Standard.Class" uid="170f729a-8b89-4bbc-ace6-413430442141"/>
+        <COMPID name="FilterDetails" mc="Standard.Class" uid="641b633e-d8e0-40a9-b082-d09e66426e49"/>
+        <COMPID name="Distribution" mc="Standard.Class" uid="749165a5-db5a-47de-ba40-4f20928f0284"/>
+        <COMPID name="ValidResponse" mc="Standard.Class" uid="beca99f0-fbc1-466f-a5fb-8a6c6cfcb410"/>
+        <COMPID name="Missing" mc="Standard.Class" uid="be326a4c-4e97-4911-a031-2abd1c3905c9"/>
+        <COMPID name="Histogram" mc="Standard.Class" uid="c0ee8412-e4e5-414f-bc7e-4ca488c893fd"/>
+        <OBJECT>
+          <ID name="ImageType" mc="Standard.Enumeration" uid="d88f3f03-d6b0-4013-bcd2-f92cf57b9224"/>
+          <ATTRIBUTES>
+            <ATT name="IsElementary">true</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[ImageType]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="OwnedElement">
+              <OBJECT>
+                <ID name="SVG" mc="Standard.Enumeration" uid="38d4dcaa-df4a-4328-ba2d-54a75b0d62e2"/>
+                <ATTRIBUTES>
+                  <ATT name="IsElementary">true</ATT>
+                  <ATT name="IsAbstract">false</ATT>
+                  <ATT name="IsLeaf">false</ATT>
+                  <ATT name="IsRoot">false</ATT>
+                  <ATT name="Visibility">Public</ATT>
+                  <ATT name="Name"><![CDATA[SVG]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="PNG" mc="Standard.Enumeration" uid="754c50e0-3828-4977-af3a-7ad78fa2910c"/>
+                <ATTRIBUTES>
+                  <ATT name="IsElementary">true</ATT>
+                  <ATT name="IsAbstract">false</ATT>
+                  <ATT name="IsLeaf">false</ATT>
+                  <ATT name="IsRoot">false</ATT>
+                  <ATT name="Visibility">Public</ATT>
+                  <ATT name="Name"><![CDATA[PNG]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="JPG" mc="Standard.Enumeration" uid="3be6c0c2-78a6-48c6-845d-645ae08e8468"/>
+                <ATTRIBUTES>
+                  <ATT name="IsElementary">true</ATT>
+                  <ATT name="IsAbstract">false</ATT>
+                  <ATT name="IsLeaf">false</ATT>
+                  <ATT name="IsRoot">false</ATT>
+                  <ATT name="Visibility">Public</ATT>
+                  <ATT name="Name"><![CDATA[JPG]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+        <COMPID name="Predecessor" mc="Standard.Class" uid="15cc3b99-7efb-44a0-ac1d-dbb28756989a"/>
+        <COMPID name="Successor" mc="Standard.Class" uid="65ca1e61-6636-4180-bb6a-bb456cc6f913"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
+        <COMPID name="metadatamanagement Class diagram" mc="Standard.ClassDiagram" uid="f29f6489-67dc-4113-be12-7d5a2e12f82f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

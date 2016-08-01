@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Metadatamanagement" version="4">
+  <OBJECT>
+    <ID name="Metadatamanagement" mc="Standard.DiagramSet" uid="758cd7b6-434a-4a5c-870e-c6124ae7fd2d"/>
+    <PID name="Metadatamanagement" mc="Standard.Project" uid="5de730f2-ecb2-4fcb-97e4-a065de5fa332"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Metadatamanagement]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
