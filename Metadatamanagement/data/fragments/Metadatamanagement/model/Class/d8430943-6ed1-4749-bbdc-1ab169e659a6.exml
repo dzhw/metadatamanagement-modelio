@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="BibliographicalReference" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Citation" version="4">
   <OBJECT>
-    <ID name="BibliographicalReference" mc="Standard.Class" uid="d8430943-6ed1-4749-bbdc-1ab169e659a6"/>
+    <ID name="Citation" mc="Standard.Class" uid="d8430943-6ed1-4749-bbdc-1ab169e659a6"/>
     <PID name="metadatamanagement" mc="Standard.Package" uid="f6ae9481-d9ef-4b17-b8f7-e937d71e8c66"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[BibliographicalReference]]></ATT>
+      <ATT name="Name"><![CDATA[Citation]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
