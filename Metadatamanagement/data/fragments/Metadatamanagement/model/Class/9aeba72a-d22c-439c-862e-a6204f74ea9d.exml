@@ -82,11 +82,6 @@ An DataAcquisitionProject with id &#39;hurz&#39; can be referenced in a string b
           </DEPENDENCIES>
         </OBJECT>
       </COMP>
-      <COMP relation="OwnedEnd">
-        <REFOBJ>
-          <ID name="studyId" mc="Standard.AssociationEnd" uid="62b23961-5a1f-42f8-a4bf-5dae59c5db9f"/>
-        </REFOBJ>
-      </COMP>
     </DEPENDENCIES>
   </OBJECT>
 </EXT>
