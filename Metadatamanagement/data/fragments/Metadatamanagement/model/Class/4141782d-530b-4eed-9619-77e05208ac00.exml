@@ -41,7 +41,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="createdBy" mc="Standard.Attribute" uid="e26ea1f5-2247-4608-9caa-4e941b816c4e"/>
+          <ID name="createdDate" mc="Standard.Attribute" uid="e26ea1f5-2247-4608-9caa-4e941b816c4e"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -55,7 +55,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[createdBy]]></ATT>
+            <ATT name="Name"><![CDATA[createdDate]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -84,7 +84,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="ZonedDateTime" mc="Standard.DataType" uid="42e8c8a3-d35a-4e46-8deb-f39bebf0ee72"/>
+              <ID name="LocalDateTime" mc="Standard.DataType" uid="42e8c8a3-d35a-4e46-8deb-f39bebf0ee72"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -132,7 +132,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="ZonedDateTime" mc="Standard.DataType" uid="42e8c8a3-d35a-4e46-8deb-f39bebf0ee72"/>
+              <ID name="LocalDateTime" mc="Standard.DataType" uid="42e8c8a3-d35a-4e46-8deb-f39bebf0ee72"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
