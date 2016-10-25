@@ -272,7 +272,7 @@
               <OBJECT>
                 <ID name="Note" mc="Standard.Note" uid="55923f40-d69b-41ec-8297-26323a8a37be"/>
                 <ATTRIBUTES>
-                  <ATT name="Content"><![CDATA[Valid Values for dataAvailability:
+                  <ATT name="Content"><![CDATA[Valid values for dataAvailability:
 DE: 'Verfuegbar' 'In-Aufbereitung', 'Nicht-Verfügbar'
 EN: 'Available', 'In-Preparation', 'Not-Available']]></ATT>
                   <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
@@ -328,7 +328,7 @@ EN: 'Available', 'In-Preparation', 'Not-Available']]></ATT>
               <OBJECT>
                 <ID name="Note" mc="Standard.Note" uid="0f1eea17-4fbf-41b3-979f-eebd91dee246"/>
                 <ATTRIBUTES>
-                  <ATT name="Content"><![CDATA[Valid Values for surveyDesign:
+                  <ATT name="Content"><![CDATA[Valid values for surveyDesign:
 DE: 'Querschnitt' 'Panel'
 EN: 'Cross-Section', 'Panel']]></ATT>
                   <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
