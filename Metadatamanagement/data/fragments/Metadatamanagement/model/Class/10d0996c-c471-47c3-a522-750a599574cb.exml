@@ -233,7 +233,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="dataAvailable" mc="Standard.Attribute" uid="c0fcb5e2-1bae-44c0-b0ae-287508f93c96"/>
+          <ID name="dataAvailability" mc="Standard.Attribute" uid="c0fcb5e2-1bae-44c0-b0ae-287508f93c96"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -247,7 +247,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[dataAvailable]]></ATT>
+            <ATT name="Name"><![CDATA[dataAvailability]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
