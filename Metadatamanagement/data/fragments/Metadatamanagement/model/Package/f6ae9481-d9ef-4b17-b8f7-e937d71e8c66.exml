@@ -28,7 +28,6 @@
         <COMPID name="LocalDateTime" mc="Standard.DataType" uid="42e8c8a3-d35a-4e46-8deb-f39bebf0ee72"/>
         <COMPID name="DataSet" mc="Standard.Class" uid="b5026c48-2136-4220-b4f1-320fb99e2aa1"/>
         <COMPID name="List" mc="Standard.DataType" uid="b2a4b9da-85ce-49d7-b9b1-29580eadb5bb"/>
-        <COMPID name="Citation" mc="Standard.Class" uid="d8430943-6ed1-4749-bbdc-1ab169e659a6"/>
         <COMPID name="Question" mc="Standard.Class" uid="0feb659f-c4f4-4bd7-b115-f4e4df3fb89f"/>
         <COMPID name="Release" mc="Standard.Class" uid="170f729a-8b89-4bbc-ace6-413430442141"/>
         <COMPID name="FilterDetails" mc="Standard.Class" uid="641b633e-d8e0-40a9-b082-d09e66426e49"/>

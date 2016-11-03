@@ -36,7 +36,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="BigDecimal" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -60,7 +60,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="BigDecimal" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -84,7 +84,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="BigDecimal" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -108,7 +108,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="BigDecimal" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -132,7 +132,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="BigDecimal" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -156,7 +156,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="BigDecimal" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -180,7 +180,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="BigDecimal" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -204,7 +204,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="BigDecimal" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -228,7 +228,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="BigDecimal" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -252,7 +252,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="BigDecimal" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -276,7 +276,79 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="BigDecimal" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="mode" mc="Standard.Attribute" uid="e4946d17-ef79-45ea-8e03-a029af028405"/>
+          <ATTRIBUTES>
+            <ATT name="TypeConstraint"></ATT>
+            <ATT name="Value"></ATT>
+            <ATT name="TargetIsClass">false</ATT>
+            <ATT name="Changeable">ReadWrite</ATT>
+            <ATT name="IsDerived">false</ATT>
+            <ATT name="IsOrdered">false</ATT>
+            <ATT name="IsUnique">false</ATT>
+            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="IsClass">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="Name"><![CDATA[mode]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Type">
+              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="deviance" mc="Standard.Attribute" uid="93d0b8ec-4c0b-4b10-a5df-1d146570b8a5"/>
+          <ATTRIBUTES>
+            <ATT name="TypeConstraint"></ATT>
+            <ATT name="Value"></ATT>
+            <ATT name="TargetIsClass">false</ATT>
+            <ATT name="Changeable">ReadWrite</ATT>
+            <ATT name="IsDerived">false</ATT>
+            <ATT name="IsOrdered">false</ATT>
+            <ATT name="IsUnique">false</ATT>
+            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="IsClass">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="Name"><![CDATA[deviance]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Type">
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="meanDeviation" mc="Standard.Attribute" uid="bdf4ccc0-0060-4f55-ae61-ba806f7d8cd0"/>
+          <ATTRIBUTES>
+            <ATT name="TypeConstraint"></ATT>
+            <ATT name="Value"></ATT>
+            <ATT name="TargetIsClass">false</ATT>
+            <ATT name="Changeable">ReadWrite</ATT>
+            <ATT name="IsDerived">false</ATT>
+            <ATT name="IsOrdered">false</ATT>
+            <ATT name="IsUnique">false</ATT>
+            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="IsClass">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="Name"><![CDATA[meanDeviation]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Type">
+              <ID name="Double" mc="Standard.DataType" uid="5cbc6e4e-d704-4261-9704-88e64c8c8f66"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
