@@ -89,22 +89,6 @@
           </DEPENDENCIES>
         </OBJECT>
       </COMP>
-      <COMP relation="Descriptor">
-        <OBJECT>
-          <ID name="Note" mc="Standard.Note" uid="92c7132c-cef0-4ea8-858a-529e24271a13"/>
-          <ATTRIBUTES>
-            <ATT name="Content"><![CDATA[rule must contain variable identifiers (either id or name)]]></ATT>
-            <ATT name="MimeType"></ATT>
-            <ATT name="Name"><![CDATA[Note]]></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES>
-            <LINK relation="Model">
-              <FOREIGNID name="constraint" mc="Standard.NoteType" uid="00bc0b8c-0000-251b-0000-000000000000"/>
-            </LINK>
-          </DEPENDENCIES>
-        </OBJECT>
-      </COMP>
     </DEPENDENCIES>
   </OBJECT>
 </EXT>
