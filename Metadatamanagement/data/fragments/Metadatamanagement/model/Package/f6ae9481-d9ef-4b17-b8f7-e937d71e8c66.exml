@@ -69,6 +69,7 @@
         <COMPID name="Study" mc="Standard.Class" uid="10d0996c-c471-47c3-a522-750a599574cb"/>
         <COMPID name="TechnicalRepresentation" mc="Standard.Class" uid="ce5cab2c-ac8f-46cf-9a9f-120e1c1a9426"/>
         <COMPID name="InstrumentAttachmentMetadata" mc="Standard.Class" uid="b83c0de3-9852-4adf-883c-1db135e3061c"/>
+        <COMPID name="RelatedQuestion" mc="Standard.Class" uid="1f2175b0-b9f2-45ae-88e2-173f5c4c7a5f"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
