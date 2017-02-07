@@ -47,8 +47,7 @@ Survey -&gt; sur<br />
 DataAcquisitionProject -&gt; pro<br />
 DataSet -&gt; dat<br />
 Question -&gt; que<br />
-Instrument -&gt; ins<br />
-Citation -&gt; cit​</p><p>Example:<br />
+Instrument -&gt; ins​</p><p>Example:<br />
 An DataAcquisitionProject with id &#39;hurz&#39; can be referenced in a string by #prohurz</p>
 ]]></ATT>
                   <ATT name="MimeType"></ATT>
