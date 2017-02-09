@@ -443,37 +443,6 @@
                         </LINK>
                       </DEPENDENCIES>
                     </OBJECT>
-                    <OBJECT>
-                      <ID name="Note" mc="Standard.Note" uid="188c8171-5fa8-4464-a9c9-8d153fc68fa5"/>
-                      <ATTRIBUTES>
-                        <ATT name="Content"><![CDATA[<p>study.id and study.dataAcqusitionProjectId must be <strong>equal</strong></p>
-]]></ATT>
-                        <ATT name="MimeType"></ATT>
-                        <ATT name="Name"><![CDATA[Note]]></ATT>
-                        <ATT name="status">1970354901745664</ATT>
-                      </ATTRIBUTES>
-                      <DEPENDENCIES>
-                        <LINK relation="Model">
-                          <FOREIGNID name="description" mc="Standard.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
-                        </LINK>
-                        <COMP relation="Descriptor">
-                          <OBJECT>
-                            <ID name="" mc="Standard.Note" uid="f26e3e6c-b8e3-4bd0-bfe1-4b10b1204f02"/>
-                            <ATTRIBUTES>
-                              <ATT name="Content"><![CDATA[<Enter note text here>asdas]]></ATT>
-                              <ATT name="MimeType"></ATT>
-                              <ATT name="Name"></ATT>
-                              <ATT name="status">1970354901745664</ATT>
-                            </ATTRIBUTES>
-                            <DEPENDENCIES>
-                              <LINK relation="Model">
-                                <FOREIGNID name="description" mc="Standard.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
-                              </LINK>
-                            </DEPENDENCIES>
-                          </OBJECT>
-                        </COMP>
-                      </DEPENDENCIES>
-                    </OBJECT>
                   </COMP>
                 </DEPENDENCIES>
               </OBJECT>

@@ -63,11 +63,9 @@ An DataAcquisitionProject with id &#39;hurz&#39; can be referenced in a string b
               <OBJECT>
                 <ID name="Note" mc="Standard.Note" uid="d9fa535e-fefb-4ad3-8339-4db664c77c4f"/>
                 <ATTRIBUTES>
-                  <ATT name="Content"><![CDATA[<p>All domain objects must have an id which is unique within the given type. For all domain objects except Variables and Questions&nbsp;the following scheme is applied:</p><p>id = {dataAcquisitionProject.id}-{sequenceNumber}</p><p>For example the first DataSet within DataAcquisitionProject &#39;Abs05&#39; will get id &#39;Abs05-1&#39;.</p><p>Variables will get the following id;</p><p>id = {dataAcquisitionProject.id}-{variable.name}</p><p>For example the Variable with name &#39;MOPRENDE&#39; in DataAcquisitionProject &#39;Abs05&#39; will get the id &#39;Abs05-MOPRENDE&#39;</p><p>Questions&nbsp;will get the following id;</p><p>id = {questionnaire.id}-{question.number}</p>
-
-<div>&nbsp;</div>
+                  <ATT name="Content"><![CDATA[<p>All domain objects must have an id which is unique within the given type. The first three letters of the domain name are the prefix. The suffix is an excemation mark.&nbsp;For all domain objects except Variables and Questions&nbsp;the following scheme is applied:</p><p>id = pre-{dataAcquisitionProject.id}-{sequenceNumber}!</p><p>For example the first DataSet within DataAcquisitionProject &#39;Abs05&#39; will get id &#39;dat-Abs05-1!&#39;.</p><p>Variables will get the following id;</p><p>id = var-{dataAcquisitionProject.id}-{variable.name}!</p><p>For example the Variable with name &#39;MOPRENDE&#39; in DataAcquisitionProject &#39;Abs05&#39; will get the id &#39;var-Abs05-MOPRENDE!&#39;</p><p>Questions&nbsp;will get the following id;</p><p>id = que-{questionnaire.id}-{question.number}!</p><p>Study will get the following id:</p><p>id = study-{dataAcquisitionProjectId}!</p>
 ]]></ATT>
-                  <ATT name="MimeType"></ATT>
+                  <ATT name="MimeType"><![CDATA[text/html]]></ATT>
                   <ATT name="Name"><![CDATA[Note]]></ATT>
                   <ATT name="status">1970354901745664</ATT>
                 </ATTRIBUTES>
