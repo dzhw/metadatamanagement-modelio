@@ -71,10 +71,11 @@
         <COMPID name="InstrumentAttachmentMetadata" mc="Standard.Class" uid="b83c0de3-9852-4adf-883c-1db135e3061c"/>
         <COMPID name="RelatedQuestion" mc="Standard.Class" uid="1f2175b0-b9f2-45ae-88e2-173f5c4c7a5f"/>
         <COMPID name="SurveyAttachmentMetadata" mc="Standard.Class" uid="c3e50a21-d0cb-4086-8bf2-e75982c0140e"/>
+        <COMPID name="CodingScheme" mc="Standard.Class" uid="d48c98d4-0016-49d2-aa32-0cd1ce5ad272"/>
+        <COMPID name="CodingSchemeAttachmentMetadata" mc="Standard.Class" uid="0d18cefc-7f67-446d-9ce3-8139a33f200d"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
-        <COMPID name="metadatamanagement Class diagram" mc="Standard.ClassDiagram" uid="f29f6489-67dc-4113-be12-7d5a2e12f82f"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

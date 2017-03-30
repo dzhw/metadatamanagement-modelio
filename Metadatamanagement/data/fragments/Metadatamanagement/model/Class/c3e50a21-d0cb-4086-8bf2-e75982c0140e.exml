@@ -200,7 +200,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="survey" mc="Standard.AssociationEnd" uid="1b366a1a-a604-475b-b8ba-bed6ed256c60"/>
+          <ID name="surveyId" mc="Standard.AssociationEnd" uid="1b366a1a-a604-475b-b8ba-bed6ed256c60"/>
           <ATTRIBUTES>
             <ATT name="Aggregation">KindIsAssociation</ATT>
             <ATT name="IsChangeable">true</ATT>
@@ -213,7 +213,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[survey]]></ATT>
+            <ATT name="Name"><![CDATA[surveyId]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -240,7 +240,7 @@
                 </ATTRIBUTES>
                 <DEPENDENCIES>
                   <COMP relation="Opposite">
-                    <COMPID name="survey" mc="Standard.AssociationEnd" uid="1b366a1a-a604-475b-b8ba-bed6ed256c60"/>
+                    <COMPID name="surveyId" mc="Standard.AssociationEnd" uid="1b366a1a-a604-475b-b8ba-bed6ed256c60"/>
                   </COMP>
                   <COMP relation="Association">
                     <OBJECT>
