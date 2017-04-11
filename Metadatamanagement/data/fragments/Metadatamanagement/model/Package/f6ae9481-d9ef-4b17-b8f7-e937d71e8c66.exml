@@ -73,6 +73,7 @@
         <COMPID name="SurveyAttachmentMetadata" mc="Standard.Class" uid="c3e50a21-d0cb-4086-8bf2-e75982c0140e"/>
         <COMPID name="CodingScheme" mc="Standard.Class" uid="d48c98d4-0016-49d2-aa32-0cd1ce5ad272"/>
         <COMPID name="CodingSchemeAttachmentMetadata" mc="Standard.Class" uid="0d18cefc-7f67-446d-9ce3-8139a33f200d"/>
+        <COMPID name="Person" mc="Standard.Class" uid="6d41e1fe-864d-4a4e-831d-661a1294ec41"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
