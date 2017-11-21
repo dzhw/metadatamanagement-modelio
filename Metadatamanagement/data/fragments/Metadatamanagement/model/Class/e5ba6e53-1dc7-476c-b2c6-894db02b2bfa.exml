@@ -17,7 +17,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedAttribute">
         <OBJECT>
-          <ID name="x" mc="Standard.Attribute" uid="dab95ce1-9faf-44eb-b9b5-efa41a4c1cad"/>
+          <ID name="widthX" mc="Standard.Attribute" uid="dab95ce1-9faf-44eb-b9b5-efa41a4c1cad"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -31,7 +31,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[x]]></ATT>
+            <ATT name="Name"><![CDATA[widthX]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -41,7 +41,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="y" mc="Standard.Attribute" uid="95caf81a-3f7e-4fde-8120-a69367427bb7"/>
+          <ID name="heightY" mc="Standard.Attribute" uid="95caf81a-3f7e-4fde-8120-a69367427bb7"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -55,7 +55,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[y]]></ATT>
+            <ATT name="Name"><![CDATA[heightY]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
