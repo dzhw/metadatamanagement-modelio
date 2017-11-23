@@ -77,58 +77,6 @@
         <COMPID name="StudyAttachmentMetaData" mc="Standard.Class" uid="642a4a8b-f394-4cc0-9fb6-b5be082bf602"/>
         <COMPID name="Resolution" mc="Standard.Class" uid="e5ba6e53-1dc7-476c-b2c6-894db02b2bfa"/>
         <COMPID name="QuestionImageMetadata" mc="Standard.Class" uid="3694a405-8c4e-4608-9f4b-28d4f8229db7"/>
-        <OBJECT>
-          <ID name="DisplayType" mc="Standard.Enumeration" uid="2dd676f2-f6fa-42e4-a4d1-52c93818d72a"/>
-          <ATTRIBUTES>
-            <ATT name="IsElementary">true</ATT>
-            <ATT name="IsAbstract">false</ATT>
-            <ATT name="IsLeaf">false</ATT>
-            <ATT name="IsRoot">false</ATT>
-            <ATT name="Visibility">Public</ATT>
-            <ATT name="Name"><![CDATA[DisplayType]]></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES>
-            <COMP relation="Value">
-              <OBJECT>
-                <ID name="" mc="Standard.EnumerationLiteral" uid="83e60ec3-d87b-4d8c-b333-2a8232c882b3"/>
-                <ATTRIBUTES>
-                  <ATT name="Name"></ATT>
-                  <ATT name="status">1970354901745664</ATT>
-                </ATTRIBUTES>
-                <DEPENDENCIES></DEPENDENCIES>
-              </OBJECT>
-            </COMP>
-            <COMP relation="OwnedElement">
-              <OBJECT>
-                <ID name="PAPER" mc="Standard.Enumeration" uid="c073b354-25c4-480b-961c-b69ef35b0b74"/>
-                <ATTRIBUTES>
-                  <ATT name="IsElementary">true</ATT>
-                  <ATT name="IsAbstract">false</ATT>
-                  <ATT name="IsLeaf">false</ATT>
-                  <ATT name="IsRoot">false</ATT>
-                  <ATT name="Visibility">Public</ATT>
-                  <ATT name="Name"><![CDATA[PAPER]]></ATT>
-                  <ATT name="status">1970354901745664</ATT>
-                </ATTRIBUTES>
-                <DEPENDENCIES></DEPENDENCIES>
-              </OBJECT>
-              <OBJECT>
-                <ID name="DIGITAL" mc="Standard.Enumeration" uid="99a70615-73bd-4897-91fd-ad8e9375c944"/>
-                <ATTRIBUTES>
-                  <ATT name="IsElementary">true</ATT>
-                  <ATT name="IsAbstract">false</ATT>
-                  <ATT name="IsLeaf">false</ATT>
-                  <ATT name="IsRoot">false</ATT>
-                  <ATT name="Visibility">Public</ATT>
-                  <ATT name="Name"><![CDATA[DIGITAL]]></ATT>
-                  <ATT name="status">1970354901745664</ATT>
-                </ATTRIBUTES>
-                <DEPENDENCIES></DEPENDENCIES>
-              </OBJECT>
-            </COMP>
-          </DEPENDENCIES>
-        </OBJECT>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
