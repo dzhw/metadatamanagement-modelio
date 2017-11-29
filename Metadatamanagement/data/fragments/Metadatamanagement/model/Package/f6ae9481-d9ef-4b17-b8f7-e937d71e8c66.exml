@@ -77,6 +77,7 @@
         <COMPID name="StudyAttachmentMetaData" mc="Standard.Class" uid="642a4a8b-f394-4cc0-9fb6-b5be082bf602"/>
         <COMPID name="Resolution" mc="Standard.Class" uid="e5ba6e53-1dc7-476c-b2c6-894db02b2bfa"/>
         <COMPID name="QuestionImageMetadata" mc="Standard.Class" uid="3694a405-8c4e-4608-9f4b-28d4f8229db7"/>
+        <COMPID name="Population" mc="Standard.Class" uid="c29a4099-bfed-4c26-9f67-034d21c21198"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
