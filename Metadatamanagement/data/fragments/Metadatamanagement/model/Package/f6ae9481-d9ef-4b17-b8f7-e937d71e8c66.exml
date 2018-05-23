@@ -78,6 +78,9 @@
         <COMPID name="Resolution" mc="Standard.Class" uid="e5ba6e53-1dc7-476c-b2c6-894db02b2bfa"/>
         <COMPID name="QuestionImageMetadata" mc="Standard.Class" uid="3694a405-8c4e-4608-9f4b-28d4f8229db7"/>
         <COMPID name="Population" mc="Standard.Class" uid="c29a4099-bfed-4c26-9f67-034d21c21198"/>
+        <COMPID name="Configuration" mc="Standard.Class" uid="f066ac1d-748a-44a4-8f3e-19370e64e4c4"/>
+        <COMPID name="Notification" mc="Standard.Class" uid="e1bb243f-112f-40d6-8d64-813fa5b5f644"/>
+        <COMPID name="ProjectNotification" mc="Standard.Class" uid="73e3cdb5-3f57-42aa-82ef-48b0526de2c2"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
