@@ -97,6 +97,7 @@
         <COMPID name="Configuration" mc="Standard.Class" uid="f066ac1d-748a-44a4-8f3e-19370e64e4c4"/>
         <COMPID name="ProjectState" mc="Standard.Class" uid="837dd9ef-d009-4e47-ba74-d141c94b2813"/>
         <COMPID name="Requirements" mc="Standard.Class" uid="43e191bf-d38a-43ab-9011-3446d7087ba3"/>
+        <COMPID name="AbstractShadowableRdcDomainObject" mc="Standard.Class" uid="45b7b9f8-4b32-45cc-99cd-d0405ff2319d"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
