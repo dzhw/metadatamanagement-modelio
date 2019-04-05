@@ -98,6 +98,9 @@
         <COMPID name="ProjectState" mc="Standard.Class" uid="837dd9ef-d009-4e47-ba74-d141c94b2813"/>
         <COMPID name="Requirements" mc="Standard.Class" uid="43e191bf-d38a-43ab-9011-3446d7087ba3"/>
         <COMPID name="AbstractShadowableRdcDomainObject" mc="Standard.Class" uid="45b7b9f8-4b32-45cc-99cd-d0405ff2319d"/>
+        <COMPID name="Tags" mc="Standard.Class" uid="927e8d98-883d-4fed-8a27-e047a8068e83"/>
+        <COMPID name="Set" mc="Standard.DataType" uid="e5c467c2-3ad7-43f1-9587-dd5cdb6ae9f9"/>
+        <COMPID name="GeographicCoverage" mc="Standard.Class" uid="2bada44e-7cdb-41b9-9188-066f6639ab5e"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
