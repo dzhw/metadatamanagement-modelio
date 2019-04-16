@@ -101,6 +101,54 @@
         <COMPID name="Tags" mc="Standard.Class" uid="927e8d98-883d-4fed-8a27-e047a8068e83"/>
         <COMPID name="Set" mc="Standard.DataType" uid="e5c467c2-3ad7-43f1-9587-dd5cdb6ae9f9"/>
         <COMPID name="GeographicCoverage" mc="Standard.Class" uid="2bada44e-7cdb-41b9-9188-066f6639ab5e"/>
+        <OBJECT>
+          <ID name="DataFormat" mc="Standard.Enumeration" uid="5b33892d-ea56-40c6-9b20-57a08868eeac"/>
+          <ATTRIBUTES>
+            <ATT name="IsElementary">true</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[DataFormat]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="Value">
+              <OBJECT>
+                <ID name="STATA" mc="Standard.EnumerationLiteral" uid="75698473-d4e2-4c33-86f5-9a573a21d31d"/>
+                <ATTRIBUTES>
+                  <ATT name="Name"><![CDATA[STATA]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="WORD" mc="Standard.EnumerationLiteral" uid="d7afcefd-3d1d-4e7e-ab86-484b79ec0f92"/>
+                <ATTRIBUTES>
+                  <ATT name="Name"><![CDATA[WORD]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="SPSS" mc="Standard.EnumerationLiteral" uid="f1d628e0-81d2-407c-840e-63ae83eb03a8"/>
+                <ATTRIBUTES>
+                  <ATT name="Name"><![CDATA[SPSS]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+              <OBJECT>
+                <ID name="R" mc="Standard.EnumerationLiteral" uid="30efa325-bce2-4098-b3be-a0475b8ea252"/>
+                <ATTRIBUTES>
+                  <ATT name="Name"><![CDATA[R]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
