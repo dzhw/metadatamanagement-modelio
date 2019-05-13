@@ -65,30 +65,6 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="assertions" mc="Standard.Attribute" uid="815d86a0-09a9-4fcd-9252-ce3818877daa"/>
-          <ATTRIBUTES>
-            <ATT name="TypeConstraint"></ATT>
-            <ATT name="Value"></ATT>
-            <ATT name="TargetIsClass">false</ATT>
-            <ATT name="Changeable">ReadWrite</ATT>
-            <ATT name="IsDerived">false</ATT>
-            <ATT name="IsOrdered">false</ATT>
-            <ATT name="IsUnique">false</ATT>
-            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
-            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
-            <ATT name="Visibility">Public</ATT>
-            <ATT name="IsClass">false</ATT>
-            <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[assertions]]></ATT>
-            <ATT name="status">1970354901745664</ATT>
-          </ATTRIBUTES>
-          <DEPENDENCIES>
-            <LINK relation="Type">
-              <ID name="List" mc="Standard.DataType" uid="b2a4b9da-85ce-49d7-b9b1-29580eadb5bb"/>
-            </LINK>
-          </DEPENDENCIES>
-        </OBJECT>
-        <OBJECT>
           <ID name="studiesState" mc="Standard.Attribute" uid="ad489e3a-7d3f-4d86-8705-edfc838af9ef"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
@@ -253,6 +229,30 @@
           <DEPENDENCIES>
             <LINK relation="Type">
               <ID name="Requirements" mc="Standard.Class" uid="43e191bf-d38a-43ab-9011-3446d7087ba3"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="publicationsState" mc="Standard.Attribute" uid="7a295ab8-e0e4-434d-8870-be715f311a68"/>
+          <ATTRIBUTES>
+            <ATT name="TypeConstraint"></ATT>
+            <ATT name="Value"></ATT>
+            <ATT name="TargetIsClass">false</ATT>
+            <ATT name="Changeable">ReadWrite</ATT>
+            <ATT name="IsDerived">false</ATT>
+            <ATT name="IsOrdered">false</ATT>
+            <ATT name="IsUnique">false</ATT>
+            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="IsClass">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="Name"><![CDATA[publicationsState]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Type">
+              <ID name="ProjectState" mc="Standard.Class" uid="837dd9ef-d009-4e47-ba74-d141c94b2813"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>

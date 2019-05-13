@@ -431,7 +431,7 @@
         <OBJECT>
           <ID name="population" mc="Standard.AssociationEnd" uid="385f3367-72d4-4744-84b1-1e1696f0a405"/>
           <ATTRIBUTES>
-            <ATT name="Aggregation">KindIsAssociation</ATT>
+            <ATT name="Aggregation">KindIsComposition</ATT>
             <ATT name="IsChangeable">true</ATT>
             <ATT name="Changeable">ReadWrite</ATT>
             <ATT name="IsDerived">false</ATT>
