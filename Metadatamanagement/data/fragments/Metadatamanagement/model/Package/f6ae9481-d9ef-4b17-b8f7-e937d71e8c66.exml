@@ -149,6 +149,8 @@
             </COMP>
           </DEPENDENCIES>
         </OBJECT>
+        <COMPID name="Concept" mc="Standard.Class" uid="24bd61ca-8377-444a-a40f-028528acd7e0"/>
+        <COMPID name="ConceptAttachmentMetadata" mc="Standard.Class" uid="733ea4e7-1031-4981-bbde-119f31eeadfe"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
