@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="StudyAttachmentMetaData" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="DataPackageAttachmentMetaData" version="4">
   <OBJECT>
-    <ID name="StudyAttachmentMetaData" mc="Standard.Class" uid="642a4a8b-f394-4cc0-9fb6-b5be082bf602"/>
+    <ID name="DataPackageAttachmentMetaData" mc="Standard.Class" uid="642a4a8b-f394-4cc0-9fb6-b5be082bf602"/>
     <PID name="metadatamanagement" mc="Standard.Package" uid="f6ae9481-d9ef-4b17-b8f7-e937d71e8c66"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[StudyAttachmentMetaData]]></ATT>
+      <ATT name="Name"><![CDATA[DataPackageAttachmentMetaData]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
@@ -137,7 +137,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="indexInStrudy" mc="Standard.Attribute" uid="cabda7ee-1384-4425-8fd8-3ed399214b2e"/>
+          <ID name="indexInDataPackage" mc="Standard.Attribute" uid="cabda7ee-1384-4425-8fd8-3ed399214b2e"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -151,7 +151,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[indexInStrudy]]></ATT>
+            <ATT name="Name"><![CDATA[indexInDataPackage]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -224,7 +224,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="studyId" mc="Standard.AssociationEnd" uid="79f63875-7578-4e14-a52d-80bd5a48a9a6"/>
+          <ID name="dataPackageId" mc="Standard.AssociationEnd" uid="79f63875-7578-4e14-a52d-80bd5a48a9a6"/>
           <ATTRIBUTES>
             <ATT name="Aggregation">KindIsAssociation</ATT>
             <ATT name="IsChangeable">true</ATT>
@@ -237,7 +237,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[studyId]]></ATT>
+            <ATT name="Name"><![CDATA[dataPackageId]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -264,7 +264,7 @@
                 </ATTRIBUTES>
                 <DEPENDENCIES>
                   <COMP relation="Opposite">
-                    <COMPID name="studyId" mc="Standard.AssociationEnd" uid="79f63875-7578-4e14-a52d-80bd5a48a9a6"/>
+                    <COMPID name="dataPackageId" mc="Standard.AssociationEnd" uid="79f63875-7578-4e14-a52d-80bd5a48a9a6"/>
                   </COMP>
                   <COMP relation="Association">
                     <OBJECT>
