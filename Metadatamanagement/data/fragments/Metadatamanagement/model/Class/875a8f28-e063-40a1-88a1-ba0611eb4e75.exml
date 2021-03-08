@@ -257,7 +257,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="panelIdentifier" mc="Standard.Attribute" uid="c9fdda8c-34fa-4ae8-83e7-d0568c7a8e6e"/>
+          <ID name="repeatedMeasurementIdentifier" mc="Standard.Attribute" uid="c9fdda8c-34fa-4ae8-83e7-d0568c7a8e6e"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -271,7 +271,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[panelIdentifier]]></ATT>
+            <ATT name="Name"><![CDATA[repeatedMeasurementIdentifier]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
