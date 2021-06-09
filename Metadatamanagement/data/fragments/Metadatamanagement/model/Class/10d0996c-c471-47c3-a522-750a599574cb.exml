@@ -137,7 +137,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="sponsor" mc="Standard.Attribute" uid="d1bfad52-616d-4802-8b03-97eb02566dd6"/>
+          <ID name="sponsors" mc="Standard.Attribute" uid="d1bfad52-616d-4802-8b03-97eb02566dd6"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -151,12 +151,12 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[sponsor]]></ATT>
+            <ATT name="Name"><![CDATA[sponsors]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <ID name="I18nString" mc="Standard.DataType" uid="57c989c5-d696-484c-b482-3dbbf6cb76be"/>
+              <ID name="List" mc="Standard.DataType" uid="b2a4b9da-85ce-49d7-b9b1-29580eadb5bb"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
