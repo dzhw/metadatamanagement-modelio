@@ -81,7 +81,7 @@
         </OBJECT>
         <COMPID name="RelatedPublication" mc="Standard.Class" uid="448f4788-4ff4-48de-a7e6-f635393ec26f"/>
         <COMPID name="SubDataSet" mc="Standard.Class" uid="8f8938fb-4d11-44f6-b89e-87aba5219386"/>
-        <COMPID name="Study" mc="Standard.Class" uid="10d0996c-c471-47c3-a522-750a599574cb"/>
+        <COMPID name="DataPackage" mc="Standard.Class" uid="10d0996c-c471-47c3-a522-750a599574cb"/>
         <COMPID name="TechnicalRepresentation" mc="Standard.Class" uid="ce5cab2c-ac8f-46cf-9a9f-120e1c1a9426"/>
         <COMPID name="InstrumentAttachmentMetadata" mc="Standard.Class" uid="b83c0de3-9852-4adf-883c-1db135e3061c"/>
         <COMPID name="RelatedQuestion" mc="Standard.Class" uid="1f2175b0-b9f2-45ae-88e2-173f5c4c7a5f"/>
@@ -90,7 +90,7 @@
         <COMPID name="CodingSchemeAttachmentMetadata" mc="Standard.Class" uid="0d18cefc-7f67-446d-9ce3-8139a33f200d"/>
         <COMPID name="Person" mc="Standard.Class" uid="6d41e1fe-864d-4a4e-831d-661a1294ec41"/>
         <COMPID name="DataSetAttachementMetadata" mc="Standard.Class" uid="8bf8601a-ad44-4b09-ac30-2a2fd5ea0a85"/>
-        <COMPID name="StudyAttachmentMetaData" mc="Standard.Class" uid="642a4a8b-f394-4cc0-9fb6-b5be082bf602"/>
+        <COMPID name="DataPackageAttachmentMetaData" mc="Standard.Class" uid="642a4a8b-f394-4cc0-9fb6-b5be082bf602"/>
         <COMPID name="Resolution" mc="Standard.Class" uid="e5ba6e53-1dc7-476c-b2c6-894db02b2bfa"/>
         <COMPID name="QuestionImageMetadata" mc="Standard.Class" uid="3694a405-8c4e-4608-9f4b-28d4f8229db7"/>
         <COMPID name="Population" mc="Standard.Class" uid="c29a4099-bfed-4c26-9f67-034d21c21198"/>
@@ -151,6 +151,7 @@
         </OBJECT>
         <COMPID name="Concept" mc="Standard.Class" uid="24bd61ca-8377-444a-a40f-028528acd7e0"/>
         <COMPID name="ConceptAttachmentMetadata" mc="Standard.Class" uid="733ea4e7-1031-4981-bbde-119f31eeadfe"/>
+        <COMPID name="I18nLink" mc="Standard.Class" uid="2cb4f6d6-fef9-4fb2-918d-8e4e482ce4e8"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
