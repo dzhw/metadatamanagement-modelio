@@ -152,6 +152,14 @@
         <COMPID name="Concept" mc="Standard.Class" uid="24bd61ca-8377-444a-a40f-028528acd7e0"/>
         <COMPID name="ConceptAttachmentMetadata" mc="Standard.Class" uid="733ea4e7-1031-4981-bbde-119f31eeadfe"/>
         <COMPID name="I18nLink" mc="Standard.Class" uid="2cb4f6d6-fef9-4fb2-918d-8e4e482ce4e8"/>
+        <COMPID name="AnalysisPackage" mc="Standard.Class" uid="01285d2f-b85e-48d0-9a35-8a8b8f3082fa"/>
+        <COMPID name="Script" mc="Standard.Class" uid="77a45bc7-cb11-4b91-8ac9-570cf012df8b"/>
+        <COMPID name="ScriptAttachmentMetadata" mc="Standard.Class" uid="0deb1ec6-5b57-4d3e-a55b-a068081e64fc"/>
+        <COMPID name="AbstractAnalysisDataPackage" mc="Standard.Class" uid="854b4d35-2893-47ac-b4b9-144540547dc5"/>
+        <COMPID name="DataPackage" mc="Standard.Class" uid="a4765848-5184-40d3-a71b-24e1c42e20a8"/>
+        <COMPID name="ExternalDataPackage" mc="Standard.Class" uid="cdd3e1ce-a380-4ce5-a16d-ea5a01bdc607"/>
+        <COMPID name="CustomDataPackage" mc="Standard.Class" uid="2cf8c108-f25d-4e3f-93a9-8fa2a0034e9c"/>
+        <COMPID name="AnalysisPackageAttachment" mc="Standard.Class" uid="e10d5e27-5c83-41b3-bb58-ec316acf368a"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>

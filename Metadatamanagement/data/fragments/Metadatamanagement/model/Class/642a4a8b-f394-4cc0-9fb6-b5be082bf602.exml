@@ -156,7 +156,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Type">
-              <FOREIGNID name="string" mc="Standard.DataType" uid="00000004-0000-000d-0000-000000000000"/>
+              <FOREIGNID name="integer" mc="Standard.DataType" uid="00000004-0000-0009-0000-000000000000"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
@@ -242,7 +242,7 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Target">
-              <ID name="Study" mc="Standard.Class" uid="10d0996c-c471-47c3-a522-750a599574cb"/>
+              <ID name="DataPackage" mc="Standard.Class" uid="10d0996c-c471-47c3-a522-750a599574cb"/>
             </LINK>
             <COMP relation="Opposite">
               <OBJECT>
