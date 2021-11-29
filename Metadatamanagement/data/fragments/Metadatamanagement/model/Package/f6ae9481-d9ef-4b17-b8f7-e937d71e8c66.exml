@@ -160,6 +160,7 @@
         <COMPID name="ExternalDataPackage" mc="Standard.Class" uid="cdd3e1ce-a380-4ce5-a16d-ea5a01bdc607"/>
         <COMPID name="CustomDataPackage" mc="Standard.Class" uid="2cf8c108-f25d-4e3f-93a9-8fa2a0034e9c"/>
         <COMPID name="AnalysisPackageAttachment" mc="Standard.Class" uid="e10d5e27-5c83-41b3-bb58-ec316acf368a"/>
+        <COMPID name="DataSource" mc="Standard.Class" uid="505d503a-fd26-41cd-b2c9-89069517b245"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="Standard.ClassDiagram" uid="8710742c-5ad2-434b-bde6-f0e474df01a0"/>
